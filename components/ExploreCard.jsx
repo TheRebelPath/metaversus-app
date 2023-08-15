@@ -35,7 +35,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
         glassmorphism mb-[16px]`}
         >
           <img
-            src="/headset.svg"
+            src="./headset.svg"
             alt="headset"
             className="w-1/2 h-1/2 object-contain"
           />
